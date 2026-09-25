@@ -1179,5 +1179,12 @@
     "slug": "zymurgy",
     "url": "https://www.zymurgy.rip/",
 	"owner": "https://neocities.org/site/zymurgy"
+},
+{
+        "name": "Sivonrapmi",
+        "slug": "sivonrapmi",
+        "about": "Personal site",
+        "url": "https://sivonrapmi.neocities.org/",
+        "owner": "https://sivonrapmi.neocities.org/"
 }
 ]
